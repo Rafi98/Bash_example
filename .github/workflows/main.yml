@@ -16,4 +16,4 @@ jobs:
     - name: Execute deploy.sh script
       run: |
         chmod +x ./bash_exe.sh
-        ./bash.sh
+        ./bash_exe.sh
